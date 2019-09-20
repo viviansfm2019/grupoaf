@@ -1,0 +1,27 @@
+.banner {
+  font
+  background-color: coral;
+  size: 25;
+  width: 100%;
+  text-align: center;
+}
+
+.body {
+  background-attachment: fixed; /*fijo*/
+  background-repeat: no-repeat; /*no se repite la imagen*/
+  background-size: cover; /*tome toda la pantalla*/
+}
+.caja {
+  width: 25%;
+  height: auto;
+  float: left;
+  margin: 15px;
+}
+footer{
+    background-image: url(helado1.jpg)
+}
+.caja1 {
+    width: 100%;
+    height: auto;
+    clear: left;
+    margin: 15px;
